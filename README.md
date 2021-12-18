@@ -48,7 +48,7 @@ python manage.py runserver
 > ### 팔로우 팔로잉 목록 확인
 
 ![image](https://user-images.githubusercontent.com/81295661/146645954-9cf370d6-b977-483b-b00d-a3143d63c80f.png)
-- 아래 메인페이징서 확인이 가능합니다.
+- 메인페이지 하단에서 확인이 가능합니다.
 
 <br>
 
